@@ -6,6 +6,6 @@ It is supposed to be a web application that does two things:
 
 **Installing and Running the Project:** I don't have a server for it. You can download it and run it on debug mode, then use your localhost to take a look at the front end. But you still need to type in the path you want to go (/exerciseplanner or /caloriecounter), then add your input in the terminal... I learned the hard way that I probably should've worked on both frontend and backend at the same time, rather than backend then frontend.
 
-For the exercise planner, it'll give you the .JSON on your browser. The database I used is https://github.com/yuhonas/free-exercise-db. Thank you for sharing!
+For the exercise planner, it'll give you the .JSON on your browser. The database I used is at https://github.com/yuhonas/free-exercise-db. Thank you for sharing!
 
 Unfortunately for the calorie counter, I removed the API key for security reasons, but you can sign up at https://spoonacular.com/food-api for free and you can get your own API key that way. It'll give you the list of recipes, the calories, and the total calories.
